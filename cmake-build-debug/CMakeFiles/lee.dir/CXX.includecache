@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kraftwerk28/cpp/lee/defines.h
+
+/home/kraftwerk28/cpp/lee/window.cc
+window.h
+/home/kraftwerk28/cpp/lee/window.h
+
+/home/kraftwerk28/cpp/lee/window.h
+SFML/Graphics.hpp
+-
+defines.h
+/home/kraftwerk28/cpp/lee/defines.h
+unistd.h
+-
+
